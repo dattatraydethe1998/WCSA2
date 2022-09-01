@@ -2,8 +2,9 @@ package ActionsMethod;
 
 public class Dethe {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
+		System.out.println(Hii Datta);
 
 	}
 
