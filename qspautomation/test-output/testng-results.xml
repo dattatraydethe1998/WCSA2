@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23842" started-at="2022-08-27T12:33:59 IST" finished-at="2022-08-27T12:34:23 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23842" started-at="2022-08-27T12:33:59 IST" finished-at="2022-08-27T12:34:23 IST">
+      <class name="testngpack.Class3">
+        <test-method status="PASS" signature="launchGoogle1()[pri:0, instance:testngpack.Class3@1b68ddbd]" name="launchGoogle1" duration-ms="7505" started-at="2022-08-27T12:33:59 IST" finished-at="2022-08-27T12:34:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle1 -->
+      </class> <!-- testngpack.Class3 -->
+      <class name="testngpack.Class2">
+        <test-method status="PASS" signature="launchGoogle1()[pri:0, instance:testngpack.Class2@305fd85d]" name="launchGoogle1" duration-ms="7894" started-at="2022-08-27T12:34:07 IST" finished-at="2022-08-27T12:34:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle1 -->
+      </class> <!-- testngpack.Class2 -->
+      <class name="testngpack.Class1">
+        <test-method status="PASS" signature="launchGoogle1()[pri:0, instance:testngpack.Class1@458c1321]" name="launchGoogle1" duration-ms="8383" started-at="2022-08-27T12:34:15 IST" finished-at="2022-08-27T12:34:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle1 -->
+      </class> <!-- testngpack.Class1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
